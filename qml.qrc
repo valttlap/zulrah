@@ -1,13 +1,23 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-    </qresource>
-    <qresource prefix="/images">
         <file>Images/default.jpg</file>
         <file>Images/magma2.jpg</file>
         <file>Images/magma3.jpg</file>
-    </qresource>
-    <qresource prefix="/images/normal">
+        <file>Images/Magma_a/4.jpg</file>
+        <file>Images/Magma_a/5.jpg</file>
+        <file>Images/Magma_a/6.jpg</file>
+        <file>Images/Magma_a/7.jpg</file>
+        <file>Images/Magma_a/8.jpg</file>
+        <file>Images/Magma_a/9.jpg</file>
+        <file>Images/Magma_a/10.jpg</file>
+        <file>Images/Magma_b/4.jpg</file>
+        <file>Images/Magma_b/5.jpg</file>
+        <file>Images/Magma_b/6.jpg</file>
+        <file>Images/Magma_b/7.jpg</file>
+        <file>Images/Magma_b/8.jpg</file>
+        <file>Images/Magma_b/9.jpg</file>
+        <file>Images/Magma_b/10.jpg</file>
         <file>Images/Normal/2.jpg</file>
         <file>Images/Normal/3.jpg</file>
         <file>Images/Normal/4.jpg</file>
@@ -18,26 +28,6 @@
         <file>Images/Normal/9.jpg</file>
         <file>Images/Normal/10.jpg</file>
         <file>Images/Normal/11.jpg</file>
-    </qresource>
-    <qresource prefix="/images/magma_a">
-        <file>Images/Magma_a/4.jpg</file>
-        <file>Images/Magma_a/5.jpg</file>
-        <file>Images/Magma_a/6.jpg</file>
-        <file>Images/Magma_a/7.jpg</file>
-        <file>Images/Magma_a/8.jpg</file>
-        <file>Images/Magma_a/9.jpg</file>
-        <file>Images/Magma_a/10.jpg</file>
-    </qresource>
-    <qresource prefix="/images/magma_b">
-        <file>Images/Magma_b/4.jpg</file>
-        <file>Images/Magma_b/5.jpg</file>
-        <file>Images/Magma_b/6.jpg</file>
-        <file>Images/Magma_b/7.jpg</file>
-        <file>Images/Magma_b/8.jpg</file>
-        <file>Images/Magma_b/9.jpg</file>
-        <file>Images/Magma_b/10.jpg</file>
-    </qresource>
-    <qresource prefix="/images/tanzanite">
         <file>Images/Tanzanite/2.jpg</file>
         <file>Images/Tanzanite/3.jpg</file>
         <file>Images/Tanzanite/4.jpg</file>
@@ -49,5 +39,6 @@
         <file>Images/Tanzanite/10.jpg</file>
         <file>Images/Tanzanite/11.jpg</file>
         <file>Images/Tanzanite/12.jpg</file>
+        <file>NormalWindow.qml</file>
     </qresource>
 </RCC>
